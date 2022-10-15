@@ -8,7 +8,7 @@ A list of helpful mods for 1.8.x
 
 | Name | Known Incompatibilities | Description | Author | Environment | [Label](/README.md#labels) |
 | --- | :---: | :---: | :---: | :---: | :---: |
-| [Craftify](https://www.curseforge.com/minecraft/mc-mods/craftify) | Unknown | Craftify is a mod for Minecraft that allows you to connect to music services and display and control it in-game. | ThatGravyBoat | Client | none |
-| [ESSENTIAL Mod](https://www.curseforge.com/minecraft/mc-mods/essential-mod) | Unknown | Essential is a quality of life mod that boosts Minecraft Java to the next level. | SparkUniverse_ | Client | none |
+| [Craftify](https://www.curseforge.com/minecraft/mc-mods/craftify) | Unknown | Craftify is a mod for Minecraft that allows you to connect to music services and display and control it in-game. | ThatGravyBoat | Client | None |
+| [ESSENTIAL Mod](https://www.curseforge.com/minecraft/mc-mods/essential-mod) | Unknown | Essential is a quality of life mod that boosts Minecraft Java to the next level. | SparkUniverse_ | Client | None |
 
 [![Home](https://i.imgur.com/zGuelkW.png)](/README.md)
