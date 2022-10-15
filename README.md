@@ -1,6 +1,6 @@
-# Useful Mods
+# Actually Useful Mods
 
-Note: As you can see, this is a fork of the original "UsefulMods" list. It was created because the original list lacked quite a few mods and had some pretty useless categories (like "Launchers"). This list contains mods from: [Alkyaly's list](https://gist.github.com/alkyaly/02830c560d15256855bc529e1e232e88), [Makamys' list](https://gist.github.com/makamys/7cb74cd71d93a4332d2891db2624e17c), [The original UsefulMods list](https://github.com/TheUsefulLists/UsefulMods)
+This is a fork of the UsefulMods list by NordicGamerFE/TheUsefulLists. It was created because the original list lacked quite a few mods and had some pretty useless categories (like "Launchers"). Credits: [NordcGamerFE/TheUsefulLists](https://github.com/TheUsefulLists/UsefulMods), [Alykaly](https://gist.github.com/alkyaly/02830c560d15256855bc529e1e232e88), [Makamys](https://gist.github.com/makamys/7cb74cd71d93a4332d2891db2624e17c)
 
 A list of useful mods for most commonly-played versions.
 
