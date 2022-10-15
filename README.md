@@ -34,7 +34,7 @@ You are responasable to check anything you download from the internet using hash
 | :-: | :-: | :-: |
 | 1.19.x | [✔️ Available](Enhancements/Helpful/Helpful119.md) | [✔️ Available](Enhancements/Improvements/Improvements119.md)
 | 1.18.x | [✔️ Available](Enhancements/Helpful/Helpful118.md) | [✔️ Available](Enhancements/Improvements/Improvements118.md) |
-| 1.17.x | [✔️ Available](Enhancements/Helpful/Helpful117.md) | [✔️ Available](Enhancements/Improvements/Improvementsl117.md) |
+| 1.17.x | [✔️ Available](Enhancements/Helpful/Helpful117.md) | [✔️ Available](Enhancements/Improvements/Improvements117.md) |
 | 1.16.x | [✔️ Available](Enhancements/Helpful/Helpful116.md) | [✔️ Available](Enhancements/Improvements/Improvements116.md) |
 | 1.15.x | [⚠️ WIP](Enhancements/Helpful/Helpful115.md) | [⚠️ WIP](Enhancements/Improvements/Improvements115.md) |
 | 1.12.x | [⚠️ WIP](Enhancements/Helpful/Helpful112.md) | [⚠️ WIP](Enhancements/Improvements/Improvements112.md) |
