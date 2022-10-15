@@ -12,16 +12,16 @@ Join our [discord](https://discord.gg/8nzHYhVUQS) or use the issues.
 
 | Name | Known Incompatibilities | Description | Author | Bugfixing | [Label](/README.md#labels) |
 | --- | :---: | :---: | :---: | :---: | :---: |
-| [Advancements Debug](https://www.curseforge.com/minecraft/mc-mods/advancements-debug)[⁶](/README.md#-these-mods-also-work-on-117x--despite-having-only-116-and-118-releases-in-curseforge-no-workarounds-needed-install-them-like-any-other-mods-and-your-fabric-loader-wont-complain-about-missing-dependencies) | Unknown | Rewrites one function of the advancements logic to make advancements checking faster, and use less recursion. | thetechnici4n | Client | none |
-| [AntiGhost](https://www.curseforge.com/minecraft/mc-mods/antighost) | Unknown | Removes all ghost blocks whithin a 4 block radius cube with press of a configurable key. | Giselbaer | Client | none |
-| [Carpet-Fixes](https://modrinth.com/mod/carpet-fixes) | Unknown | Carpet extension which fixes hundreds of vanilla bugs. | FXMORIN | Both | none |
-| [Chat Lag Fix](https://www.modrinth.com/mod/chat-lag-fix) | Unknown | Fixes Minecraft client lag from receiving chat messages | adryd | Client | none |
-| [Dimension Fix](https://modrinth.com/mod/dimension-fix) | Unknown | Fix MC-197860: Deleting a custom dimension in a data pack deletes Nether and End. | shedaniel | Server | none |
-| [Dynamic FPS](https://modrinth.com/mod/dynamic-fps) | Unknown | Fixes a bug in Vanilla Minecraft that makes it take much more performance in the background than it should. | juliand665 | Client | none |
+| [Advancements Debug](https://www.curseforge.com/minecraft/mc-mods/advancements-debug)[⁶](/README.md#-these-mods-also-work-on-117x--despite-having-only-116-and-118-releases-in-curseforge-no-workarounds-needed-install-them-like-any-other-mods-and-your-fabric-loader-wont-complain-about-missing-dependencies) | Unknown | Rewrites one function of the advancements logic to make advancements checking faster, and use less recursion. | thetechnici4n | Client | None |
+| [AntiGhost](https://www.curseforge.com/minecraft/mc-mods/antighost) | Unknown | Removes all ghost blocks whithin a 4 block radius cube with press of a configurable key. | Giselbaer | Client | None |
+| [Carpet-Fixes](https://modrinth.com/mod/carpet-fixes) | Unknown | Carpet extension which fixes hundreds of vanilla bugs. | FXMORIN | Both | None |
+| [Chat Lag Fix](https://www.modrinth.com/mod/chat-lag-fix) | Unknown | Fixes Minecraft client lag from receiving chat messages | adryd | Client | None |
+| [Dimension Fix](https://modrinth.com/mod/dimension-fix) | Unknown | Fix MC-197860: Deleting a custom dimension in a data pack deletes Nether and End. | shedaniel | Server | None |
+| [Dynamic FPS](https://modrinth.com/mod/dynamic-fps) | Unknown | Fixes a bug in Vanilla Minecraft that makes it take much more performance in the background than it should. | juliand665 | Client | None |
 | [Erroring Entity Remover](https://www.curseforge.com/minecraft/mc-mods/erroring-entity-remover)| Unknown | Removes entities that throw errors and crash the game while ticking. | The_Fireplace | Both | Unstable (2) |
-| [FabricCrossDimTPFix](https://modrinth.com/mod/fabriccrossdimtpfix) | Unknown | Fixes a bug where the player doesn't get sent their XP and Potion effects on cross dim teleport. | CodedSakura | Server | none |
-| [FastOpenLinksAndFolders](https://www.curseforge.com/minecraft/mc-mods/fastopenlinksandfolders) | Unknown | Stops the game from freezing when opening external links or folders | altrisi | Client | none |
-| [Fix Alt Gr](https://modrinth.com/mod/fix-alt-gr) | Unknown | Fixes the MC-127862 bug, which sometimes makes pressing the Alt Gr key lock your left control key. | MikolajKolek | Client | none |
+| [FabricCrossDimTPFix](https://modrinth.com/mod/fabriccrossdimtpfix) | Unknown | Fixes a bug where the player doesn't get sent their XP and Potion effects on cross dim teleport. | CodedSakura | Server | None |
+| [FastOpenLinksAndFolders](https://www.curseforge.com/minecraft/mc-mods/fastopenlinksandfolders) | Unknown | Stops the game from freezing when opening external links or folders | altrisi | Client | None |
+| [Fix Alt Gr](https://modrinth.com/mod/fix-alt-gr) | Unknown | Fixes the MC-127862 bug, which sometimes makes pressing the Alt Gr key lock your left control key. | MikolajKolek | Client | None |
 | [Head Name Fix](https://modrinth.com/mod/headfix) | Unknown | Mob heads will keep their custom names when placed. | manyrandomthings | Server | none |
 | [Inventory Close with Mouse key Fix](https://modrinth.com/mod/invclosefix) | Unknown | Allows you to close your inventory with a key bound to a mouse button. | KosmX | Client | none |
 | [IMBlocker](https://modrinth.com/mod/imblocker) | Unknown |  IMBlocker is a mod which hides the IME (Input Method Editor) where entering text is not required. | mrjesen | Client | none |
