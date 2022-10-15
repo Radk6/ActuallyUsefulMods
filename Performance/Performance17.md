@@ -22,7 +22,7 @@ A list of performance-enhancing mods for 1.7.x
 | [LeafCulling](https://github.com/basdxz/LeafCulling) | None | Culls leaves similarly to OptiFine | basdxz | Client | None |
 | [Neodymium](https://github.com/makamys/Neodymium) | None | Reimplements chunk rendering with modern OpenGL | makamys | Client | None |
 | [No Leaf Decay](https://www.curseforge.com/minecraft/mc-mods/no-leaf-decay) | None | Prevents leaves from decaying | Both | HRudyPlayZ | Reverse Features (7) |
-| [Not Enough Items Unofficial](https://www.curseforge.com/minecraft/mc-mods/notenoughitems-gtnh) | Unknown | GTNH fork of NotEnoughItems with performance and stability improvements | mitchej123 | Client | None |
+| [NotEnoughItems Unofficial](https://www.curseforge.com/minecraft/mc-mods/notenoughitems-gtnh) | Unknown | GTNH fork of NotEnoughItems with performance and stability improvements | mitchej123 | Client | None |
 | [Squidless](https://www.curseforge.com/minecraft/mc-mods/squidless) | Unknown | Prevents squids spawning in regions where they would instantly despawn | hilburn | Server | None |
 | [Tick Dynamic](https://www.curseforge.com/minecraft/mc-mods/tick-dynamic) | Unknown | Attempts to keep the server at 20tps by dynamically limiting the amount of entities and tile-entities that update per tick | The_Fireplace / wildex999 | Server | None |
 
