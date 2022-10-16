@@ -11,6 +11,7 @@ A list of performance-enhancing mods for 1.15.x versions.
 | [Alternate Current](https://www.curseforge.com/minecraft/mc-mods/alternate-current) | Unknown | Alternate Current is an efficient and non-locational redstone dust implementation. | SpaceWalkerRS | Server | None |
 | [Fabric Chunk Pregenerator](https://www.curseforge.com/minecraft/mc-mods/fastanim) | Unknown | Fabric Chunk Pregenerator is a fabric mod that allows you to pregenerate chunks for your server or for singleplayer while running fabric. | SuperCoder79 | Both | Configuration Needed (7) |
 | [Mipmaplevel and Language Fix](https://modrinth.com/mod/mipmaplevelandlanguagefix) | Unknown | Makes changing Mipmaplevels and Language faster, by instead of doing a full reload, only reloading the respective part of the game. | KingContaria | Client | None |
+| [LazyDFU](https://www.curseforge.com/minecraft/mc-mods/lazydfu) | None | LazyDFU is an optimization mod that makes the initialization of DataFixerUpper "lazy" | astei | Both | None |
 | [Sodium](https://github.com/mrmangohands/sodium-fabric/releases/tag/mc1.15.2-0.1.1-SNAPSHOT%2B2020-12-10) | Unknown | Sodium is a free and open-source rendering engine replacement for the Minecraft client that greatly improves frame rates, reduces micro-stutter, and fixes graphical issues in Minecraft | CaffeineMC, mrmangohands | Client | None |
 
 ## Forge 1.15.X
@@ -26,7 +27,6 @@ A list of performance-enhancing mods for 1.15.x versions.
 | [FastWorkbench](https://www.curseforge.com/minecraft/mc-mods/fastworkbench) | None | This is a mod aimed at improving performance of all crafting-related functions. | Shadows_of_Fire | Server | None |
 | [Get It Together, Drops!](https://www.curseforge.com/minecraft/mc-mods/get-it-together-drops) | None | This mod adds two configuration options to control how dropped items combine on the ground. This can significantly improve performance in areas with lots of dropped items | bl4ckscor3 | Server | None |
 | [Ksyxis](https://www.curseforge.com/minecraft/mc-mods/ksyxis) | Unknown | Speeds up your world loading by not loading nearby chunks every time. | VidTu | Both | Reverse Features (1) |
-| [LazyDFU](https://www.curseforge.com/minecraft/mc-mods/lazydfu) | None | LazyDFU is an optimization mod that makes the initialization of DataFixerUpper "lazy" | astei | Both | None |
 | [Lithium](https://www.curseforge.com/minecraft/mc-mods/lithium-forge) | None | Lithium is a general-purpose optimization mod for Minecraft which works to improve a number of systems without changing any behavior | jellysquid_ | Server | None |
 | [Out of Sight](https://www.curseforge.com/minecraft/mc-mods/out-of-sight) | Unknown | Out of Sight simply stops modded tile entities from rendering if they are further than 24 blocks away | Corosus | Client | Reverse Features (1) |
 | [Performant](https://www.curseforge.com/minecraft/mc-mods/performant) | Unknown | Lightweight mod project which hugely improves performance and blocklag. | someaddon | Server | Incompatible (2) |
