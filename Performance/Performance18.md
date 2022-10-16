@@ -2,10 +2,6 @@
 
 A list of performance-enhancing mods for 1.8.9 and below.
 
-Any suggestions/complaints?
-
-Join our [discord](https://discord.gg/8nzHYhVUQS) or use the issues.
-
 [![Home](https://i.imgur.com/zGuelkW.png)](/README.md)
 
 ## Forge 1.8.X
