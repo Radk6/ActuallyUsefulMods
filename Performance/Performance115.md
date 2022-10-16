@@ -12,7 +12,9 @@ A list of performance-enhancing mods for 1.15.x versions.
 | [Fabric Chunk Pregenerator](https://www.curseforge.com/minecraft/mc-mods/fastanim) | Unknown | Fabric Chunk Pregenerator is a fabric mod that allows you to pregenerate chunks for your server or for singleplayer while running fabric. | SuperCoder79 | Both | Configuration Needed (7) |
 | [Mipmaplevel and Language Fix](https://modrinth.com/mod/mipmaplevelandlanguagefix) | Unknown | Makes changing Mipmaplevels and Language faster, by instead of doing a full reload, only reloading the respective part of the game. | KingContaria | Client | None |
 | [LazyDFU](https://www.curseforge.com/minecraft/mc-mods/lazydfu) | None | LazyDFU is an optimization mod that makes the initialization of DataFixerUpper "lazy" | astei | Both | None |
+| [Lithium](https://www.curseforge.com/minecraft/mc-mods/lithium) | None | Lithium is a general-purpose optimization mod for Minecraft which works to improve a number of systems without changing any behavior | jellysquid_ | Server | None |
 | [Sodium](https://github.com/mrmangohands/sodium-fabric/releases/tag/mc1.15.2-0.1.1-SNAPSHOT%2B2020-12-10) | Unknown | Sodium is a free and open-source rendering engine replacement for the Minecraft client that greatly improves frame rates, reduces micro-stutter, and fixes graphical issues in Minecraft | CaffeineMC, mrmangohands | Client | None |
+| [Phosphor](https://www.curseforge.com/minecraft/mc-mods/phosphor) | None | Phosphor is a Minecraft mod which works to optimize one of game's most inefficient areas, the lighting engine | jellysquid_ | Both | None |
 
 ## Forge 1.15.X
 
