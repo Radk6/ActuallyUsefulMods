@@ -23,6 +23,7 @@ You are responasable to check anything you download from the internet using hash
 | 1.17.x | [✔️ Available](Performance/Performance117.md) | [✔️ Available](BugFixes/BugFixes117.md)
 | 1.16.x | [✔️ Available](Performance/Performance116.md) | [✔️ Available](BugFixes/BugFixes116.md)
 | 1.15.x | [✔️ Available](Performance/Performance115.md) | [✔️ Available](BugFixes/BugFixes115.md)
+| 1.14.x | [✔️ Available](Performance/Performance114.md) | [✔️ Available](BugFixes/BugFixes114.md)
 | 1.12.x | [✔️ Available](Performance/Performance112.md) | [✔️ Available](BugFixes/BugFixes112.md)
 | 1.10.x | [✔️ Available](Performance/Performance110.md) | [✔️ Available](BugFixes/BugFixes110.md)
 | 1.8.x | [✔️ Available](Performance/Performance18.md) | [✔️ Available](BugFixes/BugFixes18.md) |
