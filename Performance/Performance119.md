@@ -24,7 +24,7 @@ A list of performance-enhancing mods for 1.19.x forge/fabric versions.
 | [FastAnim](https://www.curseforge.com/minecraft/mc-mods/fastanim) | Unknown | FastAnim is a mod that improves the animation speed of entities. | lunadedogs | Client | None |
 | [Fastload](https://www.curseforge.com/minecraft/mc-mods/fastload) | ForceCloseLoadingScreen | Fastload, is a simple mod that reduces world loading time. This serves as an alternative to ksyxis, which uses an unsafe method of cutting down time. | overloadedwithmods | Both | None |
 | [FerriteCore](https://www.curseforge.com/minecraft/mc-mods/ferritecore-fabric) | Unknown | This mod reduces the memory usage of Minecraft in a few different ways | malte0811 | Both | None |
-| [ForgetMeChunk](https://modrinth.com/mod/forgetmechunk) | Unknown | Fixes the large lag spikes you sometimes get when crossing a chunk border | BreadLoaf | Client | None |
+| [ForgetMeChunk](https://modrinth.com/mod/forgetmechunk) | Unknown | Fixes the large lag spikes you sometimes get when crossing a chunk border | BreadLoaf | Client | Unstable (7) |
 | [Krypton](https://www.curseforge.com/minecraft/mc-mods/krypton) | Unknown | Krypton is a Minecraft mod designed for the Fabric mod loader that implements a suite of optimizations focused on the Minecraft networking stack. | astei | Both | None |
 | [LazyDFU](https://www.curseforge.com/minecraft/mc-mods/lazydfu) | Unknown | LazyDFU is an optimization mod that makes the initialization of DataFixerUpper "lazy" | tr9zw | Both | None |
 | [Let Me Despawn](https://www.curseforge.com/minecraft/mc-mods/let-me-despawn) | Unknown | Helps with lag caused by accidental persistent mobs. | frikinjay1 | Server | Reverse features (7) |
