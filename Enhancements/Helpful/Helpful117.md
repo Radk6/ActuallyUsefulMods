@@ -13,6 +13,7 @@ A list of helpful mods for 1.17.x forge/fabric versions.
 | [ClearDespawn](https://modrinth.com/mod/cleardespawn) | Unknown | Make items blink when they're about to despawn | Giselbaer | Client | None |
 | [Client Tweaks](https://www.curseforge.com/minecraft/mc-mods/client-tweaks-fabric) | Unknown | This mod adds a bunch of optional tweaks to improve the quality of life during gameplay. | BlayTheNinth | Client | None |
 | [Craftify](https://www.curseforge.com/minecraft/mc-mods/craftify) | Unknown | Craftify is a mod for Minecraft that allows you to connect to music services and display and control it in-game. | ThatGravyBoat | Client | None |
+| [Cyanide](https://www.curseforge.com/minecraft/mc-mods/cyanide-fabric) | Unknown | Improves datapack error logging | AlcatrazEscapee | Server | None |
 | [DeathLog](https://modrinth.com/mod/deathlog) | Unknown | Keeps track of the many embarrassing times you died | glisco | Client | None |
 | [Durability Viewer](https://modrinth.com/mod/durabilityviewer) | Unknown | Armor and Tool durability HUD | Giselbaer | Client | None |
 | [EasierChests](https://modrinth.com/mod/easierchests) | Unknown | Move items between inventory and chests easily, includes a sorter | Giselbaer | Client | None |
