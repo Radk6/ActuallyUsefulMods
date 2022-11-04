@@ -16,6 +16,7 @@ A list of performance-enhancing mods for 1.18.x forge/fabric versions.
 | [Canvas](https://www.curseforge.com/minecraft/mc-mods/canvas-renderer) | Sodium | Advanced Rendering Engine for Fabric | grondag | Client | None |
 | [Chunky](https://www.curseforge.com/minecraft/mc-mods/chunky-pregenerator) | Unknown | Pre-generates chunks, quickly and efficiently. | pop4959 | Both | Configuration Needed (7) |
 | [Clumps](https://www.curseforge.com/minecraft/mc-mods/clumps) | Unknown | Clumps groups XP orbs together into a single entity to reduce lag when there are many in a small area. | jaredlll08 | Server | None |
+| [Cull Clouds](https://modrinth.com/mod/cullclouds) | Unknown | Improves cloud culling, increasing fps | ugamii | Client | None |
 | [Cull Leaves](https://www.curseforge.com/minecraft/mc-mods/cull-leaves) | Unknown | Adds culling to leaf blocks, providing a huge performance boost over vanilla. | Motschen | Client | None |
 | [Cyclonite](https://modrinth.com/mod/c3h6n6o6) | Unknown |  A module for multi-threaded operations on entities. | KenRouKoro | Server | None |
 | [DashLoader](https://www.curseforge.com/minecraft/mc-mods/dashloader) | Enhanced Block Entities | This mod launches minecraft faster by caching all of the content on first launch and then loading that cache on the next one | alphaqu | Client | Incompatible (2) |
