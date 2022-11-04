@@ -2,10 +2,6 @@
 
 A list of Bukkit, Spigot, and other loaders
 
-Any suggestions/complaints?
-
-Join our [discord](https://discord.gg/8nzHYhVUQS) or use the issues.
-
 [![Home](https://i.imgur.com/zGuelkW.png)](/README.md)
 
 ## Bukkit, Spigot, and other loaders
