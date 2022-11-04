@@ -2,10 +2,6 @@
 
 A list of software to make the life of a server operator easier
 
-Any suggestions/complaints?
-
-Join our [discord](https://discord.gg/8nzHYhVUQS) or use the issues.
-
 [![Home](https://i.imgur.com/zGuelkW.png)](/README.md)
 
 ## Server Management Software
