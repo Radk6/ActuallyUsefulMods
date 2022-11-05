@@ -17,5 +17,6 @@ A list of bugfixing mods for 1.7.x
 | [Careful Cast Corrector](https://www.curseforge.com/minecraft/mc-mods/careful-cast-corrector-ccc) | None | Fixes an extremely rare case of Crashing in Worldgen | Speiger | Both | None |
 | [Healer](https://www.curseforge.com/minecraft/mc-mods/healer) | None | Alternative to FoamFix's log4j vulnerability fix | gleee8 | Both | None |
 | [KaizPatchX](https://github.com/Kai-Z-JP/KaizPatchX) | Unknown | Fixes some bugs of RTM and make RTM more useful! RTM = [RealTrainMod](https://www.curseforge.com/minecraft/mc-mods/realtrainmod) | Kai-Z-JP | Both | None |
+| [Lumy Skin Patch](https://www.curseforge.com/minecraft/mc-mods/lumy-skin-patch) | None | Repairs skins for Minecraft because Mojang no longer supports skins for No-UUID Minecraft versions. | lumy79 | Client | None |
 | [Netty-Patcher](https://github.com/draknyte1/Netty-Patcher) | None | Fixes [MC-108343](https://bugs.mojang.com/browse/MC-108343) | darknyte1 | Client | None |
 | [PathfinderTweaks](https://github.com/HostileNetworks/OBSOLETE-ReignModpack/blob/master/mods/PathfinderTweaks-1.7.10-1.0.13.jar) | Unknown | Modifies the pathfinding for better performance | Unknown | Server | None |
