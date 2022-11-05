@@ -44,7 +44,7 @@ You are responasable to check anything you download from the internet using hash
 | 1.15.x | [⚠️ WIP](Enhancements/Helpful/Helpful115.md) | [⚠️ WIP](Enhancements/Improvements/Improvements115.md) |
 | 1.12.x | [⚠️ WIP](Enhancements/Helpful/Helpful112.md) | [⚠️ WIP](Enhancements/Improvements/Improvements112.md) |
 | 1.8.x| [✔️ Available](Enhancements/Helpful/Helpful18.md) | Not Available |
-| 1.7.x | [✔️ Available](Enhancements/Helpful/Helpful17.md) | Not Available |
+| 1.7.x | [✔️ Available](Enhancements/Helpful/Helpful17.md) | [✔️ Available](Enhancements/Improvements/Improvements17.md) |
 | 1.6.x | [✔️ Available](Enhancements/Helpful/Helpful16.md) | Not Available |
 
 ## External Software
