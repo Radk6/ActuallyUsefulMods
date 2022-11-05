@@ -1,6 +1,6 @@
 # Performance Mods
 
-A list of performance-enhancing mods for 1.12.x versions.
+A list of performance-enhancing mods for 1.12.x Forge/Fabric versions.
 
 [![Home](https://i.imgur.com/zGuelkW.png)](/README.md)
 
