@@ -1,6 +1,6 @@
 # Performance Mods
 
-A list of performance-enhancing mods for 1.10.x versions.
+A list of performance-enhancing mods for 1.10.x Forge versions.
 
 [![Home](https://i.imgur.com/zGuelkW.png)](/README.md)
 
