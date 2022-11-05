@@ -1,6 +1,6 @@
 # Bugfixing Mods
 
-A list of bugfixing mods for 1.12.x forge versions.
+A list of bugfixing mods for 1.12.x Forge/Fabric versions.
 
 [![Home](https://i.imgur.com/zGuelkW.png)](/README.md)
 
