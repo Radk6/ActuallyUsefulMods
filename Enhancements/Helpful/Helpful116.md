@@ -24,7 +24,6 @@ A list of helpful mods for 1.16.x forge/fabric versions.
 | [Full Brightness Toggle](https://www.curseforge.com/minecraft/mc-mods/full-brightness-toggle-fabric) | Unknown | Full Brightness Toggle is a client-side mod which allows players to instantly turn the brightness (gamma) to full with the press of a button | Serilum | Client | None |
 | [HealthCare](https://modrinth.com/mod/healthcare) | Unknown | Neat serverside mob health tags. | samolego | Server | None |
 | [Horse Stats Vanilla](https://modrinth.com/mod/horsestatsvanilla) | Unknown | This client-side mod displays the statistics (health, speed, jump height) of horses in their inventory. | d4rkm0nkey | Client | None |
-| [Iris Shaders](https://modrinth.com/mod/iris) | Unknown | A modern shaders mod for Minecraft intended to be compatible with existing OptiFine shader packs | IMS212 | Client | None |
 | [KronHUD](https://www.curseforge.com/minecraft/mc-mods/kronhud) | Unknown | A mod to add clean and useful HUD widgets | DarkKronicle | Client | Alpha (1) |
 | [MiniHUD](https://www.curseforge.com/minecraft/mc-mods/minihud) | Unknown | A client-side mod that allows displaying various "info lines" on the screen ("mini-F3") | masady | Client | None |
 | [Mod Menu](https://modrinth.com/mod/modmenu) | Unknown | Adds a mod menu to view the list of mods you have installed | Prospector | Client | None |
