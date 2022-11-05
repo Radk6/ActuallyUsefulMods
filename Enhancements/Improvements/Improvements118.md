@@ -51,7 +51,7 @@ A list of improvement mods for 1.18.x forge/fabric versions.
 | [EditSign](https://modrinth.com/mod/editsign) | Unknown | Allow you to edit signs | RakSrinaNa | Server | None |
 | [Just Enough Items](https://www.curseforge.com/minecraft/mc-mods/jei) | Unknown | JEI is an item and recipe viewing mod for Minecraft, built from the ground up for stability and performance. | mezz | Both | Alpha (1) |
 | [Mouse Tweaks](https://www.curseforge.com/minecraft/mc-mods/mouse-tweaks) | Unknown | Mouse Tweaks replaces the standard RMB dragging mechanic, adds two new LMB dragging mechanics and an ability to quickly move items with the scroll wheel. | YaLTeR | Client | None |
-| [Oculus](https://www.curseforge.com/minecraft/mc-mods/oculus) | Unknown | Forge port of Iris, a modern shaders mod for Minecraft intended to be compatible with existing OptiFine shader packs | Asek3 | Client | None |
+| [Oculus](https://www.curseforge.com/minecraft/mc-mods/oculus) | Literal Sky Block | Forge port of Iris, a modern shaders mod for Minecraft intended to be compatible with existing OptiFine shader packs | Asek3 | Client | None |
 | [Roughly Enough Items](https://www.curseforge.com/minecraft/mc-mods/roughly-enough-items) | Unknown | An easy way to browse recipes. | shedaniel | Both | None |
 | [Toast Control](https://www.curseforge.com/minecraft/mc-mods/toast-control) | Unknown | This mod allows you to control what toasts show up in Minecraft | Shadows_of_Fire | Client | None |
 
