@@ -24,7 +24,7 @@ A list of bugfixing mods for 1.12.x forge versions.
 | [RandomPatches](https://www.curseforge.com/minecraft/mc-mods/randompatches-forge) | Unknown | RandomPatches is a mod that contains a bunch of miscellaneous patches for Minecraft | TheRandomLabs | Both | None |
 | [Sledgehammer](https://www.curseforge.com/minecraft/mc-mods/sledgehammer) | Unknown | Fixes several bugs in Minecraft as well as some mods | LX_Gaming | Both | None |
 
-## Fabric 1.12.X
+## Legacy Fabric 1.12.X
 
 | Name | Known Incompatibilities | Description | Author | Bugfixing | [Label](/README.md#labels) |
 | --- | :---: | :---: | :---: | :---: | :---: |
