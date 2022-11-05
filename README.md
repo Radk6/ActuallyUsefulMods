@@ -24,7 +24,7 @@ You are responasable to check anything you download from the internet using hash
 | 1.16.x | [✔️ Available](Performance/Performance116.md) | [✔️ Available](BugFixes/BugFixes116.md) |
 | 1.15.x | [✔️ Available](Performance/Performance115.md) | [✔️ Available](BugFixes/BugFixes115.md) |
 | 1.14.x | [✔️ Available](Performance/Performance114.md) | [✔️ Available](BugFixes/BugFixes114.md) |
-| 1.13.x | ⚠️ WIP | ⚠️ WIP |
+| 1.13.x | [✔️ Available](Performance/Performance113.md) | [✔️ Available](BugFixes/BugFixes113.md) |
 | 1.12.x | [✔️ Available](Performance/Performance112.md) | [✔️ Available](BugFixes/BugFixes112.md) |
 | 1.11.x | [✔️ Available](Performance/Performance111.md) | [✔️ Available](BugFixes/BugFixes111.md) |
 | 1.10.x | [✔️ Available](Performance/Performance110.md) | [✔️ Available](BugFixes/BugFixes110.md) |
