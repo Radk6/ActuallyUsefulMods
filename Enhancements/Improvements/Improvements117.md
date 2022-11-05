@@ -25,6 +25,7 @@ A list of improvement mods for 1.17.x forge/fabric versions.
 | [FlightHelper](https://modrinth.com/mod/flighthelper) | Unknown | Fix your pitch to get max distance from your Elytra | Giselbaer | Client | None |
 | [Inspecio](https://modrinth.com/mod/inspecio) | Unknown | A Minecraft mod which adds more tooltips. | LambdAurora | Client | None |
 | [Inventory Profiles Next](https://modrinth.com/mod/inventory-profiles-next) | Unknown | Take control over you inventory | blackd | Client | None |
+| [Iris Shaders](https://modrinth.com/mod/iris) | Unknown | A modern shaders mod for Minecraft intended to be compatible with existing OptiFine shader packs | IMS212 | Client | None |
 | [LambdaBetterGrass](https://modrinth.com/mod/lambdabettergrass) | Unknown | A Minecraft mod which adds better grass and snow to the game | LambdAurora | Client | None |
 | [LambDynamicLights](https://modrinth.com/mod/lambdynamiclights) | Unknown | A dynamic lights mod for Fabric | LambdAurora | Client | None |
 | [Mod Manager](https://modrinth.com/mod/modmanager) | Unknown | An extension for Mod Menu which allows you to manage your mods ingame | DeathsGun | Client | None |
