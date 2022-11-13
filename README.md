@@ -7,8 +7,7 @@ A list of useful mods for most commonly-played versions.
 Any suggestions/complaints?
 
 Submit an issue (or a pull request fixing it!)
-
-##Note
+# Note
 
 If you're making a modpack and only came here for the performance-related mods, I highly recommend using [Modpack Template](https://github.com/Radplay/Modpack-Template) as a base instead.
 ## Disclaimer
