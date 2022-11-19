@@ -31,12 +31,12 @@ A list of performance-enhancing mods for 1.12.x Forge/Fabric versions.
 | [Potion Core](https://www.curseforge.com/minecraft/mc-mods/potion-core) | Unknown | Fixes stuttering when breaking/placing blocks when used in conjunction with OptiFine | Tmtrvlr | Both | None |
 | [Stackie](https://www.curseforge.com/minecraft/mc-mods/stackie) | Unknown | This mod increases stack sizes of experience and items | Lunatrius | Server | None |
 | [Surge](https://www.curseforge.com/minecraft/mc-mods/surge) | Mods using outdated mixin versions[¹](/README.md#-should-work-if-mixin-0-7-0-8-compatibility-is-applied) | Surge is an open source mod which aims to improve the load time and performance of the game. | DarkhaxDev | Both | None |
-| [TexFix](https://www.curseforge.com/minecraft/mc-mods/texfix) | **FoamFix-Anarchy**, MCPatcher | TexFix optimizes the loading of textures of other mods | Speiger | Client | None |
+| [TexFix](https://www.curseforge.com/minecraft/mc-mods/texfix) | **FoamFix-Anarchy**, MCPatcher, NormalASM | TexFix optimizes the loading of textures of other mods | Speiger | Client | None |
 | [Tick Dynamic](https://www.curseforge.com/minecraft/mc-mods/tick-dynamic) | Unknown | Attempts to keep the server at 20tps by dynamically limiting the amount of entities and tile-entities that update per tick | The_Fireplace / wildex999 | Server | None |
 | [Tinkers OreDict Cache](https://www.curseforge.com/minecraft/mc-mods/tinkers-oredict-cache) | Unknown | This mod caches Tinkers Construct melting recipes to speed up game loading time | youyihj | Both | None |
 | [Tiquality](https://www.curseforge.com/minecraft/mc-mods/tiquality) | Unknown | Limiting a player's tick time in the world to evenly distribute time. | Terminator_NL | Server | None |
 | [Unloader](https://www.curseforge.com/minecraft/mc-mods/unloader) | Unknown | Checks for unused dimensions every 30 seconds (600 ticks) to unload by default | Unnoen | Both | None |
-| [VanillaFix](https://www.curseforge.com/minecraft/mc-mods/vanillafix) | Mods using outdated mixin versions[¹](https://github.com/NordicGamerFE/usefulmods/tree/main#-should-work-if-mixin-0-7-0-8-compatibility-is-applied) | VanillaFix is a mod that improves performance and fixes bugs and annoyances in vanilla Minecraft | Runemoro (Dimensional Development) | Both | None |
+| [VanillaFix](https://www.curseforge.com/minecraft/mc-mods/vanillafix) | Mods using outdated mixin versions[¹](https://github.com/NordicGamerFE/usefulmods/tree/main#-should-work-if-mixin-0-7-0-8-compatibility-is-applied), NormalASM | VanillaFix is a mod that improves performance and fixes bugs and annoyances in vanilla Minecraft | Runemoro (Dimensional Development) | Both | None |
 
 ## Legacy Fabric 1.12.X
 
