@@ -24,7 +24,7 @@ A list of performance-enhancing mods for 1.7.x
 | [No Leaf Decay](https://www.curseforge.com/minecraft/mc-mods/no-leaf-decay) | None | Prevents leaves from decaying | Both | HRudyPlayZ | Reverse Features (7) |
 | [NotEnoughItems Unofficial](https://www.curseforge.com/minecraft/mc-mods/notenoughitems-gtnh) | Unknown | GTNH fork of NotEnoughItems with performance and stability improvements | mitchej123 | Client | None |
 | [Squidless](https://www.curseforge.com/minecraft/mc-mods/squidless) | Unknown | Prevents squids spawning in regions where they would instantly despawn | hilburn | Server | None |
-| [Tick Dynamic](https://www.curseforge.com/minecraft/mc-mods/tick-dynamic) | Unknown | Attempts to keep the server at 20tps by dynamically limiting the amount of entities and tile-entities that update per tick | The_Fireplace / wildex999 | Server | None |
+| Tick Dynamic <br>[<img src=/images/curseforge.png height=18>](https://www.curseforge.com/minecraft/mc-mods/tick-dynamic) | Unknown | Attempts to keep the server at 20tps by dynamically limiting the amount of entities and tile-entities that update per tick | The_Fireplace / wildex999 | Server | None |
 
 ## Legacy Fabric 1.7.X
 
