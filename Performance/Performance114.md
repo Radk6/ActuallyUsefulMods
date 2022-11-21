@@ -14,7 +14,7 @@ A list of performance-enhancing mods for 1.14.x versions.
 | LazyDFU<br>[<img src=/images/curseforge.png height=18>](https://www.curseforge.com/minecraft/mc-mods/lazydfu)[<img src=/images/modrinth.ico height=18>](https://modrinth.com/mod/lazydfu)[<img src=/images/github.ico height=18>](https://github.com/astei/lazydfu) | None | LazyDFU is an optimization mod that makes the initialization of DataFixerUpper "lazy" | astei | Both | None |
 | Lithium 1.14<br>[<img src=/images/github.ico height=18>](https://github.com/KingContaria/lithium-fabric-1.14) | None | Lithium is a general-purpose optimization mod for Minecraft which works to improve a number of systems without changing any behavior | CaffeineMC, KingContaria | Server | None |
 | Mipmaplevel and Language Fix<br>[<img src=/images/modrinth.ico height=18>](https://modrinth.com/mod/mipmaplevelandlanguagefix)[<img src=/images/github.ico height=18>](https://github.com/KingContaria/Mipmaplevel-and-Language-Fix) | Unknown | Makes changing Mipmaplevels and Language faster, by instead of doing a full reload, only reloading the respective part of the game. | KingContaria | Client | None |
-| Starlight 1.14<br>[<img src=/images/github.ico height=18>](https://github.com/KingContaria/Starlight-1.14) | Phosphor | Fabric mod for completely rewriting the vanilla light engine. | Spottedleaf (PaperMC), KingContaria | Both | None |
+| Starlight 1.14<br>[<img src=/images/github.ico height=18>](https://github.com/KingContaria/Starlight-1.14) | Unknown | Fabric mod for completely rewriting the vanilla light engine. | Spottedleaf (PaperMC), KingContaria | Both | None |
 
 ## Forge 1.14.X
 
