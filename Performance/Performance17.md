@@ -12,19 +12,19 @@ A list of performance-enhancing mods for 1.7.x
 | [ArchaicFix](https://www.curseforge.com/minecraft/mc-mods/archaicfix) | None | ArchaicFix implements a number of bugfixes and optimizations for Minecraft 1.7.10 | embeddedt | Both | None |
 | [BetterFPS](https://www.curseforge.com/minecraft/mc-mods/betterfps) | None | BetterFps is a Minecraft mod that add a few performance improvements, trying to be compatible with other mods. | Guichaguri | Both | None |
 | [CoFHTweaks](https://www.curseforge.com/minecraft/mc-mods/cofhtweaks) | FastCraft | Configuration options | skyboy026 (TeamCoFH) | Client | None |
-| [CoreTweaks](https://github.com/makamys/CoreTweaks) | BetterCrashes, CrashGuard | Speeds up game startup | makamys | Client | None |
+| CoreTweaks<br>[<img src=/images/github.ico height=18>](https://github.com/makamys/CoreTweaks) | BetterCrashes, CrashGuard | Speeds up game startup | makamys | Client | None |
 | [Chunk-Pregenerator](https://www.curseforge.com/minecraft/mc-mods/chunkpregenerator) | Unknown | Chunk Pregenerator is a tool that allows you to generate your World more efficiently, by Preemptively generating the chunks. It is a Server-side tool that has some optional client features if wanted. | Speiger | Both | Configuration Needed (7) |
 | [ChunkPurge](https://www.curseforge.com/minecraft/mc-mods/chunkpurge) | Unknown | Periodically scans the loaded chunks in each dimension that are configured to be scanned, and identifies those which are isolated from any valid chunk watchers, then unloads them | \_ForgeUser12240070 | Server | None |
 | [FalseTweaks](https://www.curseforge.com/minecraft/mc-mods/falsetweaks) | None | Rendering optimizations | FalsePattern | Client | Configuration Needed (2) |
 | [FastCraft](https://www.curseforge.com/minecraft/mc-mods/fastcraft) | Forge Essentials, CoFHTweaks | FastCraft is a sophisticated mod which improves the client and server performance significantly without any game play changes. | sfPlayer1 | Both | None |
 | [Flying Cullers](https://www.curseforge.com/minecraft/mc-mods/flying-cullers) | None | Dynamically adjusts the render distance of entities and tile entities based on your frame rate | AstroTibs | Client | None |
 | [FoamFix](https://www.curseforge.com/minecraft/mc-mods/foamfix-optimization-mod) | None | FoamFix is a mod designed to optimize post-1.7.10 modded Minecraft using simple, targeted optimizations. | asiekierka | Both | None |
-| [LeafCulling](https://github.com/basdxz/LeafCulling) | None | Culls leaves similarly to OptiFine | basdxz | Client | None |
-| [Neodymium](https://github.com/makamys/Neodymium) | None | Reimplements chunk rendering with modern OpenGL | makamys | Client | None |
-| [No Leaf Decay](https://www.curseforge.com/minecraft/mc-mods/no-leaf-decay) | None | Prevents leaves from decaying | Both | HRudyPlayZ | Reverse Features (7) |
-| [NotEnoughItems Unofficial](https://www.curseforge.com/minecraft/mc-mods/notenoughitems-gtnh) | Unknown | GTNH fork of NotEnoughItems with performance and stability improvements | mitchej123 | Client | None |
-| [Squidless](https://www.curseforge.com/minecraft/mc-mods/squidless) | Unknown | Prevents squids spawning in regions where they would instantly despawn | hilburn | Server | None |
-| Tick Dynamic<br>[<img src=/images/curseforge.png height=18>](https://www.curseforge.com/minecraft/mc-mods/tick-dynamic) | Unknown | Attempts to keep the server at 20tps by dynamically limiting the amount of entities and tile-entities that update per tick | The_Fireplace / wildex999 | Server | None |
+| LeafCulling<br>[<img src=/images/github.ico height=18>](https://github.com/basdxz/LeafCulling) | None | Culls leaves similarly to OptiFine | basdxz | Client | None |
+| Neodymium<br>[<img src=/images/github.ico height=18>](https://github.com/makamys/Neodymium) | None | Reimplements chunk rendering with modern OpenGL | makamys | Client | None |
+| No Leaf Decay<br>[<img src=/images/curseforge.png height=18>](https://www.curseforge.com/minecraft/mc-mods/no-leaf-decay) | None | Prevents leaves from decaying | Both | HRudyPlayZ | Reverse Features (7) |
+| NotEnoughItems Unofficial<br>[<img src=/images/curseforge.png height=18>](https://www.curseforge.com/minecraft/mc-mods/notenoughitems-gtnh)[<img src=/images/github.ico height=18>](https://github.com/GTNewHorizons/NotEnoughItems) | Unknown | GTNH fork of NotEnoughItems with performance and stability improvements | mitchej123 | Client | None |
+| Squidless<br>[<img src=/images/curseforge.png height=18>](https://www.curseforge.com/minecraft/mc-mods/squidless)[<img src=/images/github.ico height=18>](https://github.com/hilburn/Squidless) | Unknown | Prevents squids spawning in regions where they would instantly despawn | hilburn | Server | None |
+| Tick Dynamic<br>[<img src=/images/curseforge.png height=18>](https://www.curseforge.com/minecraft/mc-mods/tick-dynamic)[<img src=/images/github.ico height=18>](https://github.com/The-Fireplace-Minecraft-Mods/TickDynamic) | Unknown | Attempts to keep the server at 20tps by dynamically limiting the amount of entities and tile-entities that update per tick | The_Fireplace / wildex999 | Server | None |
 
 ## Legacy Fabric 1.7.X
 
