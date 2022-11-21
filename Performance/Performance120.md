@@ -2,8 +2,6 @@
 
 A list of performance-enhancing mods for 1.20.x Forge/Fabric versions.
 
-Any suggestions/complaints?
-
 [![Home](https://i.imgur.com/zGuelkW.png)](/README.md)
 
 ## Fabric 1.20.X
