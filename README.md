@@ -35,7 +35,7 @@ You are responsible for checking anything you download from the internet using h
 | 1.7.x | [✔️ Available](Performance/Performance17.md) | [✔️ Available](BugFixes/BugFixes17.md) |
 | b1.7.3 | ❌ Unavailable | [✔️ Available](BugFixes/BugFixesb173.md) |
 
-## [Note on Optifine](Performance/Note%20on%20OptiFine.md)
+## [Note on OptiFine](Performance/Note%20on%20OptiFine.md)
 
 ### Enhancement mods
 
