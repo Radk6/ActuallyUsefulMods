@@ -39,15 +39,15 @@ You are responsible for checking anything you download from the internet using h
 
 | Version | Helpful | Improvements | OptiFine Alternatives |
 | :-: | :-: | :-: | :-: |
-| 1.19.x | [✔️ Available](Enhancements/Helpful/Helpful119.md) | [✔️ Available](Enhancements/Improvements/Improvements119.md) | [✔️ Available](OFAlternatives/OF119.md) |
-| 1.18.x | [✔️ Available](Enhancements/Helpful/Helpful118.md) | [✔️ Available](Enhancements/Improvements/Improvements118.md) | ⚠️ WIP |
-| 1.17.x | [✔️ Available](Enhancements/Helpful/Helpful117.md) | [✔️ Available](Enhancements/Improvements/Improvements117.md) | ⚠️ WIP |
-| 1.16.x | [✔️ Available](Enhancements/Helpful/Helpful116.md) | [✔️ Available](Enhancements/Improvements/Improvements116.md) | ⚠️ WIP |
-| 1.15.x | [⚠️ WIP](Enhancements/Helpful/Helpful115.md) | [⚠️ WIP](Enhancements/Improvements/Improvements115.md) | ⚠️ WIP |
-| 1.12.x | [⚠️ WIP](Enhancements/Helpful/Helpful112.md) | [⚠️ WIP](Enhancements/Improvements/Improvements112.md) | ❌ Unavailable |
-| 1.8.x| [✔️ Available](Enhancements/Helpful/Helpful18.md) | ❌ Unavailable | ❌ Unavailable |
-| 1.7.x | [✔️ Available](Enhancements/Helpful/Helpful17.md) | [✔️ Available](Enhancements/Improvements/Improvements17.md) | ❌ Unavailable |
-| 1.6.x | [✔️ Available](Enhancements/Helpful/Helpful16.md) | ❌ Unavailable | ❌ Unavailable |
+| 1.19.x | [✔️ Available](Enhancements/Helpful/Helpful119.md) | [✔️ Available](Enhancements/Improvements/Improvements119.md) |
+| 1.18.x | [✔️ Available](Enhancements/Helpful/Helpful118.md) | [✔️ Available](Enhancements/Improvements/Improvements118.md) |
+| 1.17.x | [✔️ Available](Enhancements/Helpful/Helpful117.md) | [✔️ Available](Enhancements/Improvements/Improvements117.md) |
+| 1.16.x | [✔️ Available](Enhancements/Helpful/Helpful116.md) | [✔️ Available](Enhancements/Improvements/Improvements116.md) |
+| 1.15.x | [⚠️ WIP](Enhancements/Helpful/Helpful115.md) | [⚠️ WIP](Enhancements/Improvements/Improvements115.md) |
+| 1.12.x | [⚠️ WIP](Enhancements/Helpful/Helpful112.md) | [⚠️ WIP](Enhancements/Improvements/Improvements112.md) |
+| 1.8.x| [✔️ Available](Enhancements/Helpful/Helpful18.md) | ❌ Unavailable |
+| 1.7.x | [✔️ Available](Enhancements/Helpful/Helpful17.md) | [✔️ Available](Enhancements/Improvements/Improvements17.md) |
+| 1.6.x | [✔️ Available](Enhancements/Helpful/Helpful16.md) | ❌ Unavailable |
 
 ## External Software
 
