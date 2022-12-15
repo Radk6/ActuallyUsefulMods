@@ -49,14 +49,6 @@ You are responsible for checking anything you download from the internet using h
 | 1.7.x | [✔️ Available](Enhancements/Helpful/Helpful17.md) | [✔️ Available](Enhancements/Improvements/Improvements17.md) |
 | 1.6.x | [✔️ Available](Enhancements/Helpful/Helpful16.md) | ❌ Unavailable |
 
-## External Software
-
-| Theme | Description |
-| :---: | :---: |
-| [Server Software](Software/SoftwareBukkitSpigotETC.md) | Used to run a server
-| [Server Management](Software/SoftwareServerManagement.md) | Used to manage servers
-| [World Management](Software/SoftwareWorldManagement.md) | Used to manage or modifiy worlds
-
 ## [Java Arguments optimization](https://github.com/brucethemoose/Minecraft-Performance-Flags-Benchmarks)
 
 ## Labels
