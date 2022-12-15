@@ -39,7 +39,7 @@ You are responsible for checking anything you download from the internet using h
 
 | Version | Helpful | Improvements | OptiFine Alternatives |
 | :-: | :-: | :-: | :-: |
-| 1.19.x | [✔️ Available](Enhancements/Helpful/Helpful119.md) | [✔️ Available](Enhancements/Improvements/Improvements119.md) | [⚠️ WIP](OFAlternatives/OF119.md) |
+| 1.19.x | [✔️ Available](Enhancements/Helpful/Helpful119.md) | [✔️ Available](Enhancements/Improvements/Improvements119.md) | [✔️ Available](OFAlternatives/OF119.md) |
 | 1.18.x | [✔️ Available](Enhancements/Helpful/Helpful118.md) | [✔️ Available](Enhancements/Improvements/Improvements118.md) | ⚠️ WIP |
 | 1.17.x | [✔️ Available](Enhancements/Helpful/Helpful117.md) | [✔️ Available](Enhancements/Improvements/Improvements117.md) | ⚠️ WIP |
 | 1.16.x | [✔️ Available](Enhancements/Helpful/Helpful116.md) | [✔️ Available](Enhancements/Improvements/Improvements116.md) | ⚠️ WIP |
