@@ -38,7 +38,7 @@ You are responsible for checking anything you download from the internet using h
 ### Enhancement mods
 
 | Version | Helpful | Improvements |
-| :-: | :-: | :-: | :-: |
+| :-: | :-: | :-: |
 | 1.19.x | [✔️ Available](Enhancements/Helpful/Helpful119.md) | [✔️ Available](Enhancements/Improvements/Improvements119.md) |
 | 1.18.x | [✔️ Available](Enhancements/Helpful/Helpful118.md) | [✔️ Available](Enhancements/Improvements/Improvements118.md) |
 | 1.17.x | [✔️ Available](Enhancements/Helpful/Helpful117.md) | [✔️ Available](Enhancements/Improvements/Improvements117.md) |
