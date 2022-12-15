@@ -11,7 +11,7 @@ A list of bugfixing mods for 1.7.x
 | [Ascribe](https://www.curseforge.com/minecraft/mc-mods/ascribe) | None | Fixes attackedAtYaw syncing | unascribed | Server | None |
 | [ASM Fixes](https://www.curseforge.com/minecraft/mc-mods/asm-fixes-j-a-f-m) | Unknown | Stops a client/server Potion ID mismatch from causing a client crash | TheMattaBase | Both | Incompatible (7) |
 | [backport5160](https://github.com/makamys/minecraft-backport5160/tree/fix-ssp-stutter-release) | None | Improves entity ticking and position tracking | makamys | Both | None |
-| [Biome Decoration Fix](https://www.curseforge.com/minecraft/mc-mods/biome-decoration-fix) | None | Fixes a crash commonly occurring with a lot of heavy worldgen mods installed | tclproject | Both | None |
+| [Biome Decoration Fix](https://www.curseforge.com/minecraft/mc-mods/biome-decoration-fix) | GasStation | Fixes a crash commonly occurring with a lot of heavy worldgen mods installed | tclproject | Both | None |
 | [Born in a Barn](https://www.curseforge.com/minecraft/mc-mods/born-in-a-barn) | Unknown | Fixes a bug where Village doors keep chunks loaded | Speiger | Server | None |
 | [BugTorch](https://github.com/jss2a98aj/BugTorch) | None | Fixes bugs and backports some features | jss2a98aj | Both | None |
 | [Careful Cast Corrector](https://www.curseforge.com/minecraft/mc-mods/careful-cast-corrector-ccc) | None | Fixes an extremely rare case of Crashing in Worldgen | Speiger | Both | None |
