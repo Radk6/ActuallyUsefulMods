@@ -1,3 +1,6 @@
+# THIS LIST IS NOT MAINTAINED ANYMORE.
+## Check out the original UsefulMods list instead: https://github.com/TheUsefulLists/UsefulMods
+
 # Actually Useful Mods
 
 This is a fork of the UsefulMods list by NordicGamerFE/TheUsefulLists. It was created because the original list lacked quite a few mods and had some pretty useless categories (like "Launchers"). Credits: [NordicGamerFE/TheUsefulLists](https://github.com/TheUsefulLists/UsefulMods), [Alkyaly](https://gist.github.com/alkyaly/02830c560d15256855bc529e1e232e88), [Makamys](https://gist.github.com/makamys/7cb74cd71d93a4332d2891db2624e17c)
